@@ -20,7 +20,6 @@ class Car extends Bike
 public class SingleInheritance {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Car c = new Car();
 		c.speed();
 		c.average();
